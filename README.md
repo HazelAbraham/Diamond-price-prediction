@@ -11,7 +11,7 @@ Step - 4: Normalise the data
 
 Step - 5: Split the data - Test and Train (recommended 75:25 split)
 
-Step - 6: Apply all the ML Algorithms like Linear Regression(Simple and Multiple), Linear Regression with Polynomial Features, KNN, Decision Trees, etc...
+Step - 6: Apply all the ML Algorithms like Linear Regression(Simple and Multiple), Linear Regression with Polynomial Features, Decision Trees, etc...
 
 Step - 7: Evaluate your model
 
